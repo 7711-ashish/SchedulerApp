@@ -1,0 +1,25 @@
+.fp-container{
+    height: 100vh;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.col-1{
+    background-image: url('../assets/blue-background.jpg');
+    background-size: cover;
+    padding: 0px 100px;
+    position: relative;
+}
+
+.col{
+    position: relative;
+}
+
+.form-image{
+    width: 60%; 
+    height:50%;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
